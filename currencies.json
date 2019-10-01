@@ -15,5 +15,10 @@
   "YE": "YER",
   "LY": "LD",
   "JO": "JD",
-  "SY": "LS"
+  "SY": "LS",
+  "CHN":"CNY",
+  "DEN":"DKK",
+  "GRG":"GEL",
+  "ITY":"EUR",
+  "LBR":"LRD"
 }
