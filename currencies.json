@@ -18,13 +18,12 @@
   "SY": "LS",
   "GH": "GHC",
   "NG": "NGN",
-  "UAE":"AED",
-  "CHN":"CNY",
+  "CN":"CNY",
   "CA": "CAD",
   "IN": "INR",
   "JP": "JPY",
-  "DEN":"DKK",
-  "GRG":"GEL",
-  "ITY":"EUR",
-  "LBR":"LRD"
+  "DK":"DKK",
+  "GE":"GEL",
+  "IT":"EUR",
+  "LR":"LRD"
 }
