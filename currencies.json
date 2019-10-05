@@ -26,5 +26,16 @@
   "DK":"DKK",
   "GE":"GEL",
   "IT":"EUR",
-  "LR":"LRD"
+  "LR":"LRD",
+  "PK":"PKR",
+  "RO":"RON",
+  "RU":"RUB",
+  "ZA":"ZAR",
+  "LK":"LKR",
+  "SE":"SEK",
+  "SD":"SDG",
+  "TH":"THB",
+  "TR":"TRY",
+  "UZ":"UZS",
+  "EE":"EEK"
 }
